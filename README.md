@@ -46,10 +46,7 @@ hedef-filo-assesment/
 git clone https://github.com/burotring/hedef-filo-case-study.git
 cd hedef-filo-case-study
 
-# Her şeyi otomatik başlat
-./start.sh
-```
-Bu script otomatik olarak backend ve UI'yi kurup başlatır!
+start.sh ile otomatik başlatılabilir (tam test edilmedi).
 
 ### Manuel Kurulum
 #### 1. Proje İndirme
